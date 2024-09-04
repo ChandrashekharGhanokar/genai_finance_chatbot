@@ -1,1 +1,1 @@
-# genai_finance_chatbot
+Developed a Generative AI chatbot for finance using Hugging Face’s Zephyr-7b-beta model and LangChain. The chatbot was trained on banking FAQs to provide accurate, context-aware responses. Integrated model quantization for optimized performance and seamless deployment.
